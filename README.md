@@ -1,5 +1,9 @@
 # Turkey Escape — Thanksgiving Getaway
 
+[![make.fun · turkey-run-game-01](https://make.fun/badge/turkey-run-game-01.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![rank](https://make.fun/badge/turkey-run-game-01/nmlyz/turkey-escape/rank.svg)](https://make.fun/bounty/turkey-run-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![reward](https://make.fun/badge/turkey-run-game-01/nmlyz/turkey-escape/reward.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+
 A turkey escape game that runs offline in a desktop browser. The farmer is coming
 for Thanksgiving dinner, and you are the dinner. Run the farmyard, slip through
 the barn, dodge the oven and the carving knives, and reach the woods before he
