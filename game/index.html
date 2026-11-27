@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Turkey Escape — Thanksgiving Getaway</title>
+<style>
+  html, body { margin: 0; padding: 0; background: #241408; height: 100%; }
+  body { display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: sans-serif; }
+  #wrap { width: min(1280px, 100vw); }
+  canvas { display: block; width: 100%; height: auto; background: #ffd9a0; }
+  #status { color: #ffe9c4; font-size: 14px; text-align: center; padding: 10px 8px; min-height: 18px; }
+</style>
+</head>
+<body>
+<div id="wrap">
+  <canvas id="game" width="1280" height="720"></canvas>
+  <div id="status" aria-live="polite"></div>
+</div>
+<script type="module" src="./src/main.js"></script>
+</body>
+</html>
